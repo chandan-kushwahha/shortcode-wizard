@@ -1,0 +1,1 @@
+<p>Name: <?php echo esc_html( $attrs['color']); ?> </p>
